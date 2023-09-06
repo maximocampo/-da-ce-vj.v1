@@ -1,1 +1,1 @@
-# -da-ce-vj.v1
+# VJ module para DERIVA ARCANA x CORREO ELECTRÓNICO
