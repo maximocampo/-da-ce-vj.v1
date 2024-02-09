@@ -141,10 +141,8 @@ void draw() {
       case(5):
        //shader(shader);
   
-        // Call your tang function
-       tang(depth, factor);  // Replace depthArray and factor with your actual parameters
+       tang(depth, factor);  
         
-        // Reset to default shader
        //resetShader();      
       break;
     }
