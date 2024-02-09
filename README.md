@@ -28,4 +28,5 @@ Proyecto de visuales en vivo usado en los shows de **Correo Electrónico**, prin
 - Conecta un (o varios) Kinect(s) a tu compu !! (solo funciona Kinect v1)
 
 # Contribuciones
-Cualquier cosa q le qran añadir dense y hagan un PR!! Ideas en issues.
+Cualquier cosa q le qran añadir dense y hagan un PR!! Ideas en issues.\
+Cualquier cosa por ig: @c0rreo
