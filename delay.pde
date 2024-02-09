@@ -26,7 +26,6 @@ void tang(int[] depth, float factor) {
       int offset3 = x + (y + meshSkip) * currentKinect.width;
       int offset4 = (x + meshSkip) + (y + meshSkip) * currentKinect.width;
 
-      // Skip drawing the triangles if any of the vertices are above kthresh
       if (depth[offset1] >= kthresh || depth[offset2] >= kthresh || depth[offset3] >= kthresh || depth[offset4] >= kthresh) {
         continue;
       }
